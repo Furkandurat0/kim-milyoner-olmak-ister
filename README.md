@@ -8,4 +8,4 @@
 <p> ``HTML`` ``CSS`` ``JAVASCRIPT`` </p>
 
 
-<img src="ezgif.com-video-to-gif.gif"
+<img src="ezgif.com-video-to-gif.gif"/>
